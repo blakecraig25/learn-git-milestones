@@ -281,7 +281,7 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 Item # | Description | Completed
 --- | --- | ---
 1a | 1st Favorite emoji | ![image](https://user-images.githubusercontent.com/112400887/235323735-434eb513-641c-444c-8db4-760a7269face.png)
-1b | Link to `commit #1 from Github.com` |
+1b | Link to `commit #1 from Github.com` |[commit #1 from Github.com](https://github.com/blakecraig25/learn-git-milestones/commit/0b60c1406b63e455c99e21a1b4e000524646c1c0)
 1c | Link to markdown tables docs |
 1d | What does `log` do? |
 2a | 2nd Favorite emoji |

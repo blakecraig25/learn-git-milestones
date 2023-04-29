@@ -285,7 +285,7 @@ Item # | Description | Completed
 1c | Link to markdown tables docs |[Link for clear instruction on markdown tables](https://www.markdownguide.org/extended-syntax/)
 1d | What does `log` do? | Show commit logs
 2a | 2nd Favorite emoji |![image](https://em-content.zobj.net/thumbs/160/apple/325/dotted-line-face_1fae5.png)
-2b | Link to `commit #2 from Github Desktop` |
+2b | Link to `commit #2 from Github Desktop` |https://github.com/blakecraig25/learn-git-milestones/commit/543de124ebfbf5916d72f242982039be5377ddf0
 2c | Full path to your working directory |
 2d | Link to `commit #3 from CLI` |
 2e | 3rd Favorite emoji |

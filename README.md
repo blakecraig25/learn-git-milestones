@@ -283,7 +283,7 @@ Item # | Description | Completed
 1a | 1st Favorite emoji | ![image](https://user-images.githubusercontent.com/112400887/235323735-434eb513-641c-444c-8db4-760a7269face.png)
 1b | Link to `commit #1 from Github.com` |[commit #1 from Github.com](https://github.com/blakecraig25/learn-git-milestones/commit/0b60c1406b63e455c99e21a1b4e000524646c1c0)
 1c | Link to markdown tables docs |[Link for clear instruction on markdown tables](https://www.markdownguide.org/extended-syntax/)
-1d | What does `log` do? |
+1d | What does `log` do? | Show commit logs
 2a | 2nd Favorite emoji |
 2b | Link to `commit #2 from Github Desktop` |
 2c | Full path to your working directory |

@@ -288,7 +288,7 @@ Item # | Description | Completed
 2b | Link to `commit #2 from Github Desktop` |https://github.com/blakecraig25/learn-git-milestones/commit/543de124ebfbf5916d72f242982039be5377ddf0
 2c | Full path to your working directory |C:\Users\18036\OneDrive - Davidson College\Desktop\Dig 333\P1_Attendance Tracker\learn-git-milestones\README.md
 2d | Link to `commit #3 from CLI` |
-2e | 3rd Favorite emoji |
+2e | 3rd Favorite emoji |![image](https://em-content.zobj.net/thumbs/160/apple/81/playing-card-black-joker_1f0cf.png)
 2f | Link to `commit #4 from VS Code` |
 3a | Link to `my-awesome-project` github.com repo page |
 4a | Link to `my-awesome-project` github.io "project site" |

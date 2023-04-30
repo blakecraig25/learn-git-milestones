@@ -291,7 +291,7 @@ Item # | Description | Completed
 2e | 3rd Favorite emoji |![image](https://em-content.zobj.net/thumbs/160/apple/81/playing-card-black-joker_1f0cf.png)
 2f | Link to `commit #4 from VS Code` |[commit #4 from VS Code](https://github.com/blakecraig25/learn-git-milestones/commit/07a49551c92aaa3969b04c0054b9621ca4a51d4f)
 3a | Link to `my-awesome-project` github.com repo page |[my-awesome-project](https://github.com/blakecraig25/my-awesome-project)
-4a | Link to `my-awesome-project` github.io "project site" |
+4a | Link to `my-awesome-project` github.io "project site" |[my-awesome-project project site](https://blakecraig25.github.io/my-awesome-project/)
 
 
 

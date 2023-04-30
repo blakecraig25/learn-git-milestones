@@ -290,7 +290,7 @@ Item # | Description | Completed
 2d | Link to `commit #3 from CLI` |[commit #3 from CLI](https://github.com/blakecraig25/learn-git-milestones/commit/182b117c01e4c5def59f136629fb3a9f8cbdaa91)
 2e | 3rd Favorite emoji |![image](https://em-content.zobj.net/thumbs/160/apple/81/playing-card-black-joker_1f0cf.png)
 2f | Link to `commit #4 from VS Code` |[commit #4 from VS Code](https://github.com/blakecraig25/learn-git-milestones/commit/07a49551c92aaa3969b04c0054b9621ca4a51d4f)
-3a | Link to `my-awesome-project` github.com repo page |
+3a | Link to `my-awesome-project` github.com repo page |[my-awesome-project](https://github.com/blakecraig25/my-awesome-project)
 4a | Link to `my-awesome-project` github.io "project site" |
 
 
